@@ -1,10 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Umar Awan",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
-	"author": "Umar Awan",
 	"scripts": {
 		"start": "node server.js"
 	},
